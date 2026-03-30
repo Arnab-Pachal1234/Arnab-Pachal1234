@@ -61,9 +61,7 @@ I am a 3rd-year **B.Tech student in Computer Science and Engineering** at **NIT 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-Pachal1234&layout=compact&langs_count=7&theme=radium"/>
 </p>
 
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub handle to activate the live stats cards!)*
 
----
 
 ### 📫 Let's Connect!
 
