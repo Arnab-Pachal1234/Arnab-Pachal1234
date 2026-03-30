@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I am a 3rd-year **B.Tech student in Computer Science and Engineering** at **NIT Durgapur**, passionate about building scalable systems, diving deep into artificial intelligence, and solving complex algorithmic challenges. Currently, I am actively preparing for placements, crushing a 30-day DSA and aptitude challenge, and exploring the fascinating worlds of Generative and Agentic AI. 
+I am a 3rd-year **B.Tech Computer Science and Engineering** student at the **National Institute of Technology (NIT) Durgapur**. I am deeply passionate about architecting scalable systems, advancing my knowledge in Artificial Intelligence, and tackling complex algorithmic problems. My current focus lies at the intersection of Distributed Systems and Generative AI, where I am dedicated to building robust, high-performance applications and expanding my technical foundation.
 
 - 🎓 **Education:** B.Tech in CSE @ National Institute of Technology (NIT) Durgapur
 - 🔭 **Currently working on:** A Priority-Aware Distributed Load Balancer & a Java Bitboard Chess Engine.
@@ -51,16 +51,6 @@ I am a 3rd-year **B.Tech student in Computer Science and Engineering** at **NIT 
 - **Senior Member** @ Centre for Cognitive Activities (CCA), NIT Durgapur
 - **Senior Coordinator** @ Aarohan (Annual Techno-Management Fest, NIT Durgapur)
 - **IT Wing Member** @ SPIC MACAY, NIT Durgapur Chapter
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arnab-Pachal1234&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnab-Pachal1234&layout=compact&langs_count=7&theme=radium"/>
-</p>
-
 
 
 ### 📫 Let's Connect!
